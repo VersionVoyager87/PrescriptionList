@@ -1,0 +1,15 @@
+# Ignore build artifacts
+bin/
+obj/
+publish/
+
+# Ignore SQLite databases
+*.db
+*.sqlite
+
+# Ignore logs
+*.log
+
+# Ignore Visual Studio files
+.vs/
+*.user
